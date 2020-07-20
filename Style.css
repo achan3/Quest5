@@ -1,0 +1,90 @@
+.koya{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:30px;
+    font-weight:900;
+    top:50px;
+    left:75px;
+    position:absolute;
+}
+.about{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top:60px;
+    left:500px;
+    position:absolute;
+}
+.courses{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top:60px;
+    left:650px;
+    position:absolute;
+}
+.teachers{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top:60px;
+    left:810px;
+    position:absolute;
+}
+.pricing{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top:60px;
+    left:980px;
+    position:absolute;
+}
+.grid-container{
+    display:grid;
+    grid-template-columns:auto auto auto auto auto auto auto auto auto auto auto auto auto;
+    top: 50px;
+    left: 1150px;
+    position:absolute;
+}
+.better{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:75px;
+    font-weight:900;
+    top:250px;
+    left:75px;
+    position:absolute;
+}
+.your{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:75px;
+    font-weight:900;
+    top:350px;
+    left:75px;
+    position:absolute;
+}
+.education{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:75px;
+    font-weight:900;
+    top:450px;
+    left:75px;
+    position:absolute;
+}
+.icon{
+    top:600px;
+    left:55px;
+    position:absolute;
+}
+.online{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color:gray;
+    top:605px;
+    left:140px;
+    position:absolute;
+}
+.underpriveleged{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color:gray;
+    top:625px;
+    left:140px;
+    position:absolute;
+} 
+.student{
+    top:200px;
+    left:500px;
+    width:900px;
+    position:absolute;
+}
